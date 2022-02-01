@@ -1,0 +1,3 @@
+version=4
+https://pear.php.net/package/Mail_Mime/download \
+https?://download.pear.php.net/package/Mail_Mime-@ANY_VERSION@@ARCHIVE_EXT@
